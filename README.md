@@ -1,7 +1,7 @@
-## Hi there 👋 About Me :
+## Hi there 👋
 
 
-### 👨🏻‍ &nbsp;About Me
+### 👨🏻‍ &nbsp;About Me :
 - 💻 Information Technology
 - 🌱 I’m currently learning Python and Golang
 
@@ -10,7 +10,7 @@
 <summary>
  <b>Accounts</b>
 </summary>
-
- * [twitter](https://twitter.com/MrCharouon)
-
+ * [instagram](#)
+ * [twitter](#)
+ * [telegram](#)
 </details>
