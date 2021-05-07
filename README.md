@@ -12,5 +12,6 @@
 </summary>
  * [instagram](#)
  * [twitter](#)
+ * [reddit](#)
  * [telegram](#)
 </details>
