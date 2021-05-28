@@ -3,7 +3,7 @@
 
 ### 👨🏻‍ &nbsp;About Me :
 - 💻 Information Technology
-- 🌱 I’m currently learning Python and Golang
+- 🌱 I’m currently learning Python
 
 
 <details>
